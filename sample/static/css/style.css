@@ -1,0 +1,30 @@
+/* Add your custom CSS here */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8; /* Set your desired background color */
+}
+header {
+    background-color: #007BFF; /* Set your desired header background color */
+    padding: 20px 0;
+}
+.navbar-brand {
+    color: #fff; /* Set your desired text color */
+    font-size: 24px; /* Set your desired font size */
+    font-weight: bold;
+}
+.navbar-nav .nav-link {
+    color: #333; /* Set your desired text color */
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #333; /* Set your desired footer background color */
+    color: #fff; /* Set your desired text color */
+    padding: 20px 0;
+}
+.list-inline-item a {
+    color: #fff; /* Set your desired text color for footer links */
+}
